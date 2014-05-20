@@ -1,0 +1,65 @@
+
+    /* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
+
+    body {
+      padding-bottom: 40px;
+      color: #5a5a5a;
+	  background-image:url('../img/bg.png');
+      width: 100%;
+    }
+
+  .hr-dourado{
+      background-color: #ddae62;
+      color: #ddae62;
+      height: 1px;    
+  }
+  .hr-dourado-grosso{
+      background-color: #ddae62;
+      color: #ddae62;
+      height: 8px;    
+  }
+
+  #logo{
+  	margin-top: 30px;
+  	background-image:url('../img/logo.png');
+  	width: 235px;
+  	height: 235px;
+  }
+
+  #caixa-foto{
+  	margin-top: 30px;
+  	width: 303px;
+  	height: 171px;
+  	background: transparent;
+  	border: 1px solid #c88719;
+  }
+
+  #foto{
+  	background-image:url('../img/foto.png');
+  	width: 281px;
+  	height: 153px;
+  	margin-left: 11px;
+  	margin-top: 9px;
+  }
+
+  #texto-topo{
+  	font-family: 'Varela Round', sans-serif;
+  	font-size: 15px;
+  	color: #ffecca;
+    text-transform: uppercase;
+  	text-align: center;
+  	line-height: 20px;
+	width: 260px;
+	float: left;
+	margin-left: 16px;
+  }
+
+  .titulo-instagram{
+  	font-family: 'Varela Round', sans-serif;
+  	font-size: 22pt;
+  	color: #a28545;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
